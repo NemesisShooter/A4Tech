@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "A4tech", "A4tech\A4tech.dtproj", "{60895FFF-4CBB-43CD-A4E6-3D5FA3EF792C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60895FFF-4CBB-43CD-A4E6-3D5FA3EF792C}.Debug|Default.ActiveCfg = Debug
+		{60895FFF-4CBB-43CD-A4E6-3D5FA3EF792C}.Debug|Default.Build.0 = Debug
+		{60895FFF-4CBB-43CD-A4E6-3D5FA3EF792C}.Development|Default.ActiveCfg = Development
+		{60895FFF-4CBB-43CD-A4E6-3D5FA3EF792C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FA47787-57CB-48EE-B2D4-1BD8BF9CDDC6}
+	EndGlobalSection
+EndGlobal
